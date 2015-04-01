@@ -71,7 +71,8 @@ public class Main {
                     test(trad.train(), trad.test());
                 } else if (algorithm.toUpperCase().equals("EVO")) {
                     /** Evolutionary Decision Tree Implementation: */
-                    evolutionaryDecisionTree evo = new evolutionaryDecisionTree(absoluteFilePath);
+                    //evolutionaryDecisionTree evo = new evolutionaryDecisionTree(absoluteFilePath);
+                    geneticAlgorithm evo = new geneticAlgorithm(absoluteFilePath);
                     //test(evo.test());
                 } else {
                     System.out.println(
