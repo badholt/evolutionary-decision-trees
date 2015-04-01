@@ -1,0 +1,57 @@
+
+   HOMEWORK 4: Decision Trees | CS335 Artificial Intelligence | Barbara Holt
+________________________________________________________________________________
+________________________________________________________________________________
+
+1. Included Files
+________________________________________________________________________________
+
+ + README
+
+ + bin
+
+ + data
+ ^-- agaricus-lepiota.data
+ ^-- house-votes-84.data
+ ^-- monks-1.test
+ ^-- monks-1.train
+ ^-- monks-2.test
+ ^-- monks-2.train
+ ^-- monks-3.test
+ ^-- monks-3.train
+
+ + output
+ ^-- SampleRun
+
+ + src
+ ^-- Main.Java
+     The Main program controls the command line interface, disseminating chosen
+     data files to the appropriate Decision Tree algorithm. As requested and
+     specified on the command line, a user will first input a number correspond-
+     ing to a dataset, and then a string input corresponding to an algorithm.
+     For example: "1" then "trad" runs the traditional Decision Tree algorithm
+     on the Congressional Voting data.
+
+ ^-- traditionalDecisionTree.java
+     Creates a tree object of an ArrayList of ArrayLists of Nodes, as well as an
+     ArrayList of testing data to be classified using the tree. The tree is
+     built using an information-gain-maximizing algorithm.
+
+________________________________________________________________________________
+
+2. Reflections
+________________________________________________________________________________
+
+ The approach of function first, then optimization, appears to be working. The
+ traditional decision tree started out as an impractical ArrayList of ArrayLists
+ of ArrayLists etc. It was an unimplementable design. However, it allowed me to
+ perfect the information gain algorithm for use as the program structure evolved.
+
+ Time-wise, I believe I've spent approximately 15 hours on the assignment up to
+ this point.  A portion of that time was spent struggling with the mathematics
+ of the information gain calculation, however.  I used MatLab as an aid in
+ confirming correct calculations.
+
+ Moving forward in this project, one component I'm unsure about is the shell
+ scripting.  I will need to do some more research into the desired division of
+ the scripts for each tree.

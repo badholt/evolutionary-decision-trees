@@ -1,0 +1,139 @@
+/---------------------------------\
+  Specify the dataset file:
+  No. Input	 Corresponding Dataset
+  ---------	 ---------------------
+  0	EXIT PROGRAM
+  1	Congressional Voting Data
+  2	Monk's Problem Data 1
+  3	Monk's Problem Data 2
+  4	Monk's Problem Data 3
+  5 Mushroom Data
+\--------------------------------/
+1
+
+/--------------------------------------\
+  Specify the Decision Tree Algorithm:
+  Input	 Corresponding Algorithm
+  -----	 ------------------------
+  0  	 EXIT PROGRAM
+  trad	 Traditional Decision Tree
+  evo	 Evolutionary Decision Tree
+\--------------------------------------/
+trad
+Building your tree...
+Accuracy:	0.9465648854961832
+
+/---------------------------------\
+  Specify the dataset file:
+  No. Input	 Corresponding Dataset
+  ---------	 ---------------------
+  0	EXIT PROGRAM
+  1	Congressional Voting Data
+  2	Monk's Problem Data 1
+  3	Monk's Problem Data 2
+  4	Monk's Problem Data 3
+  5 Mushroom Data
+\--------------------------------/
+2
+
+/--------------------------------------\
+  Specify the Decision Tree Algorithm:
+  Input	 Corresponding Algorithm
+  -----	 ------------------------
+  0  	 EXIT PROGRAM
+  trad	 Traditional Decision Tree
+  evo	 Evolutionary Decision Tree
+\--------------------------------------/
+trad
+Building your tree...
+Accuracy:	0.8217592592592593
+
+/---------------------------------\
+  Specify the dataset file:
+  No. Input	 Corresponding Dataset
+  ---------	 ---------------------
+  0	EXIT PROGRAM
+  1	Congressional Voting Data
+  2	Monk's Problem Data 1
+  3	Monk's Problem Data 2
+  4	Monk's Problem Data 3
+  5 Mushroom Data
+\--------------------------------/
+3
+
+/--------------------------------------\
+  Specify the Decision Tree Algorithm:
+  Input	 Corresponding Algorithm
+  -----	 ------------------------
+  0  	 EXIT PROGRAM
+  trad	 Traditional Decision Tree
+  evo	 Evolutionary Decision Tree
+\--------------------------------------/
+trad
+Building your tree...
+Accuracy:	1.0
+
+/---------------------------------\
+  Specify the dataset file:
+  No. Input	 Corresponding Dataset
+  ---------	 ---------------------
+  0	EXIT PROGRAM
+  1	Congressional Voting Data
+  2	Monk's Problem Data 1
+  3	Monk's Problem Data 2
+  4	Monk's Problem Data 3
+  5 Mushroom Data
+\--------------------------------/
+4
+
+/--------------------------------------\
+  Specify the Decision Tree Algorithm:
+  Input	 Corresponding Algorithm
+  -----	 ------------------------
+  0  	 EXIT PROGRAM
+  trad	 Traditional Decision Tree
+  evo	 Evolutionary Decision Tree
+\--------------------------------------/
+trad
+Building your tree...
+Accuracy:	0.5277777777777778
+
+/---------------------------------\
+  Specify the dataset file:
+  No. Input	 Corresponding Dataset
+  ---------	 ---------------------
+  0	EXIT PROGRAM
+  1	Congressional Voting Data
+  2	Monk's Problem Data 1
+  3	Monk's Problem Data 2
+  4	Monk's Problem Data 3
+  5 Mushroom Data
+\--------------------------------/
+5
+
+/--------------------------------------\
+  Specify the Decision Tree Algorithm:
+  Input	 Corresponding Algorithm
+  -----	 ------------------------
+  0  	 EXIT PROGRAM
+  trad	 Traditional Decision Tree
+  evo	 Evolutionary Decision Tree
+\--------------------------------------/
+trad
+Building your tree...
+Accuracy:	1.0
+
+/---------------------------------\
+  Specify the dataset file:
+  No. Input	 Corresponding Dataset
+  ---------	 ---------------------
+  0	EXIT PROGRAM
+  1	Congressional Voting Data
+  2	Monk's Problem Data 1
+  3	Monk's Problem Data 2
+  4	Monk's Problem Data 3
+  5 Mushroom Data
+\--------------------------------/
+0
+
+Process finished with exit code 0
